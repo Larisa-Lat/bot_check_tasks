@@ -21,7 +21,6 @@ model/__pycache__/
 model/data/__pycache__/
 __pycache__/
 mystuff/
-logs/
 bot/__init__.py
 bot/data/__init__.py
 bot/handlers/__init__.py
@@ -31,5 +30,3 @@ model/__init__.py
 model/data/__init__.py
 model/score_leaderboard/__init__.py
 model/kaggle_like/__init__.py
-
-.gitignore
