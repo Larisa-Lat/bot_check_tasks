@@ -1,0 +1,19 @@
+[
+	{
+		"case_id": 1,
+		"case_name": "",
+		"true_labels_table_id": "",
+        "metric_func": "",
+        "metric_ascending": 0,
+        "leaderboard_table_id": ""
+	},
+	{
+		"case_id": 2,
+		"case_name": "",
+		"true_labels_table_id": "",
+        "metric_func": "",
+        "metric_ascending": 1,
+        "leaderboard_table_id": ""
+	},
+	...
+]

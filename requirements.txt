@@ -1,0 +1,8 @@
+aiogram==3.8.0
+gspread==6.1.2
+pandas==2.2.2
+protobuf==5.27.2
+python-dotenv==1.0.1
+scikit_learn==1.4.1.post1
+selenium==4.22.0
+webdriver_manager==4.0.1
